@@ -474,6 +474,7 @@
         { "file": "Prestige Classes/Pathfinder Chronicler.pdf", "slot": "prestige", "variant": "pathfinderchronicler", "name": "Pathfinder Chronicler" },
             { "file": "Prestige Classes/Pathfinder Chronicler - L4.pdf", "slot": "pathfinderchroniclerl4", "name": "Pathfinder Chronicler - L4" },
             { "file": "Prestige Classes/Pathfinder Chronicler - L5.pdf", "slot": "pathfinderchroniclerl5", "name": "Pathfinder Chronicler - L5" },
+		{ "file": "Prestige Classes/Pathfinder Delver.pdf", "slot": "prestige", "variant": "pathfinderdelver", "name": "Pathfinder Delver" },
         { "file": "Prestige Classes/Shadowdancer.pdf", "slot": "prestige", "variant": "shadowdancer", "name": "Shadowdancer" },
 
         { "file": "Mythic/Archmage.pdf", "slot": "mythic", "variant": "archmage", "name": "Archmage" },
@@ -1188,7 +1189,9 @@
                     "skills": [ "Knowledge (arcana)", "Knowledge (religion)", "Sense Motive", "Spellcraft" ] },
                 { "name": "Pathfinder Chronicler", "pages": [ "prestige/pathfinderchronicler", "pathfinderchroniclerl4", "pathfinderchroniclerl5"],
                     "skills": [ "Appraise", "Bluff", "Diplomacy", "Disguise", "Escape Artist", "Intimidate", "Knowledge (arcana)", "Knowledge (dungeoneering)", "Knowledge (engineering)", "Knowledge (geography)", "Knowledge (history)", "Knowledge (local)", "Knowledge (nature)", "Knowledge (nobility)", "Knowledge (planes)", "Knowledge (religion)", "Linguistics", "Perception", "Ride", "Sense Motive", "Sleight of Hand", "Survival", "Use Magic Device" ] },
-                { "name": "Shadowdancer", "pages": [ "prestige/shadowdancer"],
+                { "name": "Pathfinder Delver", "pages": [ "prestige/pathfinderdelver"],
+                    "skills": [ "Acrobatics", "Appraise", "Bluff", "Climb", "Diplomacy", "Disable Device", "Escape Artist", "Knowledge (arcana)", "Knowledge (dungeoneering)", "Knowledge (engineering)", "Knowledge (geography)", "Knowledge (history)", "Knowledge (local)", "Knowledge (nature)", "Knowledge (nobility)", "Knowledge (planes)", "Linguistics", "Perception", "Sense Motive", "Sleight of Hand", "Stealth", "Survival", "Swim", "Use Magic Device" ] },
+				{ "name": "Shadowdancer", "pages": [ "prestige/shadowdancer"],
                     "skills": [ "Acrobatics", "Bluff", "Diplomacy", "Disguise", "Escape Artist", "Perception", "Sleight of Hand", "Stealth" ] }
             ]
         },
